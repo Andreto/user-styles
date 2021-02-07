@@ -1,0 +1,13 @@
+/* ==UserStyle==
+@name           Google Roboto
+@namespace      github.com/Andreto/user-styles
+@version        1.0.0
+@description    Set the google search font to Roboto
+@author         Andreto
+==/UserStyle== */
+
+@-moz-document url-prefix("https://www.google.com/search") {
+    .LC20lb { 
+        font-family: 'Roboto', sans-serif; 
+    }
+}
